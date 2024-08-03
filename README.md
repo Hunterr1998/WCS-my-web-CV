@@ -19,11 +19,15 @@ This project demonstrates a responsive CV website layout that mirrors the design
 
 ## Features
 
+## Features
+
 - **Responsive Design**: The layout adjusts to various screen sizes using CSS media queries.
 - **Smooth Navigation**: Includes a toggleable navigation menu for mobile devices.
 - **Modern Aesthetics**: Uses smooth transitions and animations for interactive elements.
 - **Google Fonts**: Incorporates the Poppins font for a clean and modern look.
+- **Resume Pop-up**: Users can view the resume in a pop-up window by clicking the "See Resume" button.
 
+  
 ## Technologies Used
 
 - **HTML**: Structure of the web page.
